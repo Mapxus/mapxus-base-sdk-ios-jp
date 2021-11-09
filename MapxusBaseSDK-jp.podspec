@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.summary      = 'MapxusJP Map basic module'
   s.description  = 'Provide MapxusJP Map services.'
   s.homepage     = 'https://www.mapxus.co.jp'
-  s.license      = { :type => 'MIT', :file => 'LICENSE' }
+  s.license      = { :type => 'BSD 3-Clause', :file => 'LICENSE' }
   s.author       = { 'Mapxus' => 'developer@maphive.io' }
 
   s.platform     = :ios, '9.0'
